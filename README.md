@@ -15,8 +15,11 @@ This repository contains a collection of computer vision models trained for vari
 repo/
 
 ├── model1/
+
 │   ├── code/
+
 │   ├── weights/
+
 │   └── README.md
 
 ├── model2/
