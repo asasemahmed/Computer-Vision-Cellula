@@ -1,6 +1,6 @@
-# Computer-Vision-Cellula
+# Computer-Vision-Cellula 🛸💻
 
-# Computer Vision Models Repository
+# Computer Vision Models Repository 🚀✈️
 
 This repository contains a collection of computer vision models trained for various tasks.
 
