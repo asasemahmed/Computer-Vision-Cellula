@@ -21,9 +21,12 @@ repo/
 │   ├── weights/
 
 │   └── README.md
-|
+
 ├── model2/
+
 │   ├── code/
+
 │   ├── weights/
+
 │   └── README.md
 [...]
