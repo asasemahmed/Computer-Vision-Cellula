@@ -1,8 +1,8 @@
-# Teeth Image Classification Project
+# Teeth Image Classification Project 😬🚀
 
 This project focuses on classifying teeth images using a customized MobileNet model and a Support Vector Classifier (SVC).
 
-## Project Overview
+## Project Overview 🎦
 
 The project combines deep learning and traditional machine learning techniques to classify teeth images. It consists of two main components:
 
