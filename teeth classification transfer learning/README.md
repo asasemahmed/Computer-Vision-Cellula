@@ -13,6 +13,7 @@ The project combines deep learning and traditional machine learning techniques t
 ### Modified MobileNet
 
 We use a pre-trained MobileNet model as a base, with customizations to the last few layers to adapt it for our specific teeth classification task.
+visualize the model results using sialency map and CAM (class activatin map)
 
 ### SVC Classifier
 
