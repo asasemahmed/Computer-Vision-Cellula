@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 
-model = tf.keras.models.load_model(r'P:\python_test\teeth classification transfer learning\model_mobilnet.keras')
+model = tf.keras.models.load_model(r'model_mobilnet.keras')
 
 def preprocess_image(image):
     
